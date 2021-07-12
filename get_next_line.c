@@ -80,3 +80,23 @@ char	*get_next_line(int fd)
 	}
 	return (res);
 }
+
+/*int main()
+{
+	char *line;
+	int fd;
+
+	fd = open("text.txt", O_RDONLY);
+	line = get_next_line(fd);
+	printf("RESULT =   '%s'\n",  line);
+
+	while (line != NULL)
+	{
+		line = get_next_line(fd);
+		printf("RESULT =   '%s'\n",  line);
+		free(line);
+	}
+	// printf("RESULT = %d,  '%s'\n", res, line);
+	// free (line);  gcc -Wall -Wextra -Werror -g get_next_line.c get_next_line.h get_next_line_utils.c && ./a.out
+
+}*/
