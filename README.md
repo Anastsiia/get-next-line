@@ -1,2 +1,2 @@
 # get-next-line
-![Screenshot](screenshot.png)
+![Screenshot](Screen Shot.png)
