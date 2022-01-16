@@ -1,9 +1,7 @@
 # get-next-line
 
-В файле en.subject.pdf - задание.
+Subject is in the file en.subject.pdf.
 
-P.S. Это учебные работы, они были ограниченны определенными условиями и правилами написания кода. Поэтому не удивляйтесь, что все выводится через write или везде используется цикл while и пр. =)
-
-
+P.S. These are educational works, they were limited by certain conditions and rules for writing code. Therefore, do not be surprised that everything is output through write or the while loop is used everywhere, etc. =)
 
 ![Screenshot](Screenshot.png)
